@@ -1,3 +1,7 @@
+**NOTE**
+
+This is not the upstream version; this is a patched version pulled from the `credential_file_fix` branch of [https://github.com/hakamadare/puppet-aws_api.git](https://github.com/hakamadare/puppet-aws_api.git), which was itself branched from the upstream 0.0.4 release.
+
 ####Table of Contents
 
 1. [Overview](#overview)
